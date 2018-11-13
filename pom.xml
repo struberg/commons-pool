@@ -15,10 +15,7 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 -->
-<project
-    xmlns="http://maven.apache.org/POM/4.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
@@ -28,7 +25,7 @@
   </parent>
 
   <artifactId>commons-pool2</artifactId>
-  <version>2.6.1-SNAPSHOT</version>
+  <version>2.6.1</version>
   <name>Apache Commons Pool</name>
 
   <inceptionYear>2001</inceptionYear>
@@ -45,55 +42,56 @@
     <connection>scm:git:https://git-wip-us.apache.org/repos/asf/commons-pool.git</connection>
     <developerConnection>scm:git:https://git-wip-us.apache.org/repos/asf/commons-pool.git</developerConnection>
     <url>https://git-wip-us.apache.org/repos/asf?p=commons-pool.git</url>
+    <tag>commons-pool2-2.6.1</tag>
   </scm>
 
   <developers>
     <developer>
       <name>Morgan Delagrange</name>
       <id>morgand</id>
-      <email></email>
-      <organization></organization>
+      <email />
+      <organization />
     </developer>
     <developer>
       <name>Geir Magnusson</name>
       <id>geirm</id>
-      <email></email>
-      <organization></organization>
+      <email />
+      <organization />
     </developer>
     <developer>
       <name>Craig McClanahan</name>
       <id>craigmcc</id>
-      <email></email>
-      <organization></organization>
+      <email />
+      <organization />
     </developer>
     <developer>
       <name>Rodney Waldhoff</name>
       <id>rwaldhoff</id>
-      <email></email>
-      <organization></organization>
+      <email />
+      <organization />
     </developer>
     <developer>
       <name>David Weinrich</name>
       <id>dweinr1</id>
-      <email></email>
-      <organization></organization>
+      <email />
+      <organization />
     </developer>
     <developer>
       <name>Dirk Verbeeck</name>
       <id>dirkv</id>
-      <email></email>
-      <organization></organization>
+      <email />
+      <organization />
     </developer>
     <developer>
       <name>Robert Burrell Donkin</name>
       <id>rdonkin</id>
-      <email></email>
+      <email />
       <organization>The Apache Software Foundation</organization>
     </developer>
     <developer>
       <name>Sandy McArthur</name>
       <id>sandymac</id>
-      <email></email>
+      <email />
       <organization>The Apache Software Foundation</organization>
     </developer>
     <developer>
